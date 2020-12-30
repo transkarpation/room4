@@ -8,7 +8,7 @@ Dota gamers statistic
 
 ```bash
 
-$ cd server && npm i
+$ cd server && npm i && cp .env.example .env
 
 
 $ cd client && npm i
